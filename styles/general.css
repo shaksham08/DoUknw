@@ -1,0 +1,27 @@
+:root {
+  --white: #fff;
+  --navy--primary--dark: #2c304a;
+  --navy--primary: #313552;
+  --navy--secondary: #464963;
+  --maroon--primary: #b8405e;
+  --green--primary: #2eb086;
+  --beige--primary: #eee6ce;
+}
+
+body {
+  background: var(--navy--primary);
+}
+
+.d--flex {
+  display: flex;
+}
+
+.flex--center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.flex__direction--column {
+  flex-direction: column;
+}
