@@ -54,10 +54,6 @@
   background-color: var(--green--primary);
 }
 
-.quiz__submit {
-  margin-top: 3rem;
-}
-
 .quiz__submit__btn {
   padding: 1rem 2rem;
   text-decoration: none;

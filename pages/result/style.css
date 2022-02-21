@@ -9,18 +9,12 @@
 }
 
 .result__details {
-  margin-top: 2rem;
   color: var(--white);
   font-size: 2.6rem;
   text-align: center;
 }
 
-.question__container {
-  margin-top: 4rem;
-}
-
 .question {
-  margin-top: 2rem;
   font-size: 2.2rem;
 }
 
@@ -50,10 +44,6 @@
 
 .correct {
   background-color: var(--green--primary);
-}
-
-.quiz__submit {
-  margin-top: 3rem;
 }
 
 .quiz__submit__btn {
