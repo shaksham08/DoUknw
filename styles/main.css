@@ -1,6 +1,5 @@
 .container {
   min-height: 100vh;
-  padding: 4rem 4rem;
   gap: 2rem;
 }
 
@@ -17,11 +16,9 @@
   font-size: 10rem;
   font-weight: 600;
   color: var(--beige--primary);
-  margin-bottom: 4rem;
 }
 
 .quiz__login input {
-  margin-top: 2rem;
   width: 50%;
   padding: 1rem 1rem;
   border-radius: 5px;
@@ -32,7 +29,6 @@
   width: 30rem;
   text-decoration: none;
   color: var(--navy--primary);
-  margin-top: 4rem;
   background-color: var(--green--primary);
   padding: 1rem 4rem;
   font-size: 2.6rem;
